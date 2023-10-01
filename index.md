@@ -4,3 +4,7 @@ On this page you can find additions to our Web-Sites, because the other sites th
 
 So any future Web-Sites, will be listed here on this page.
 It's a good idea to bookmark this page.
+
+---
+
+[Last Sec Site](https://lastsec.org/).
