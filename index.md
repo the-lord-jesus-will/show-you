@@ -8,3 +8,4 @@ It's a good idea to bookmark this page.
 ---
 
 [Last Sec Site](https://lastsec.org/).
+[And then the end shall come](https://the-lord-jesus-will.github.io/and-then-the-end-shall-come/).
