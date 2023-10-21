@@ -205,26 +205,26 @@ mark .md-meta { color: rgb(0, 0, 0); }
 mjx-container { break-inside: avoid; }
 
 
-/* 
- *     Typora Theme - Lapis    /    Author - YiNN 
+/*
+ *     Typora Theme - Lapis    /    Author - YiNN
  *     https://github.com/YiNNx/typora-theme-lapis
  */
 
 :root {
-    --text-color: aqua;
+    --text-color: #331d2c;
     /* Text */
-    --primary-color: #00d500;
+    --primary-color: #ff00ff;
     /* Primary Color */
-    --bg-color: #1e222a;
+    --bg-color: #ffffff;
     /* Background */
 
-    --marker-color: #7d8a9f;
+    --marker-color: #a2b6d4;
     /* List Marker */
-    --highlight-color: #e4e4e4e3;
+    --highlight-color: #ffffb5c2;
     /* Highlight */
-    --header-span-color: #47556d;
+    --header-span-color: var(--primary-color);
     /* h2 Span Color */
-    --block-bg-color: #080e1d;
+    --block-bg-color: #f6f8fa;
     /* Block Background */
 
     /* Overwrite of Typora Base Color */
@@ -237,18 +237,13 @@ mjx-container { break-inside: avoid; }
 /*
   * Font-face for Cantarell, Source Han Serif CN and JetBrains Mono
   */
-
 /*
   * Basic Style
   */
 
 html {
     font-size: 1.8em;
-    background: url(https://caught-up.net/bgs/HeaderImage-3.jpg) no-repeat center center fixed;
-    background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
+    background: url(https://caught-up.net/bgs/dove.webp) repeat fixed;
 }
 
 #write {
@@ -300,8 +295,8 @@ html {
 }
 
 [md-inline="url"],
-[md-inline="link"] > .md-content,
-[md-inline="image"] > .md-meta {
+[md-inline="link"]>.md-content,
+[md-inline="image"]>.md-meta {
     word-break: break-all;
     font-family: "VeronaRegular", "Montagu Slab", "JetBrainsMono";
     padding-left: 0.15rem;
@@ -309,7 +304,7 @@ html {
     color: var(--marker-color);
 }
 
-/* 
+/*
   * TOC
   */
 
@@ -355,11 +350,11 @@ mark {
     color: inherit;
 }
 
-/* 
+/*
   * Paragraph
   */
 
-#write + p,
+#write+p,
 #write blockquote p {
     font-size: 1.1rem;
     padding-top: 0.2rem;
@@ -545,8 +540,8 @@ li.md-list-item {
     max-width: 100%;
 }
 
-#write p > .md-image:only-child:not(.md-img-error) img,
-#write p > img:only-child {
+#write p>.md-image:only-child:not(.md-img-error) img,
+#write p>img:only-child {
     filter: drop-shadow(#d2dff4 0px 0px 8px);
     border-radius: 3rem;
     display: block;
@@ -607,7 +602,7 @@ sup.md-footnote {
 }
 
 /*
-  * Math Script 
+  * Math Script
   */
 
 .md-inline-math script {
@@ -632,7 +627,7 @@ sup.md-footnote {
     transform: translateY(-120%);
 }
 
-/* 
+/*
   * Comment
   */
 .md-comment {
@@ -727,7 +722,7 @@ span.file-node-title-ext-part {
     padding-right: 0.2rem;
 }
 
-.file-tree-node.active > .file-node-background {
+.file-tree-node.active>.file-node-background {
     border-left: 4px solid var(--primary-color);
     border-color: var(--primary-color);
 }
@@ -796,7 +791,7 @@ pre.md-fences-advanced.md-focus .md-fences-adv-panel {
     width: 1rem;
 }
 
-/* 
+/*
   * Code Block - Style
   */
 
@@ -845,7 +840,7 @@ pre.CodeMirror-line {
     color: var(--primary-color);
 }
 
-/* 
+/*
   * Code Block - Color Scheme
   */
 
@@ -934,14 +929,14 @@ pre.CodeMirror-line {
 }
 
 .cm-s-inner .CodeMirror-line::-moz-selection,
-.cm-s-inner .CodeMirror-line > span::-moz-selection,
-.cm-s-inner .CodeMirror-line > span > span::-moz-selection {
+.cm-s-inner .CodeMirror-line>span::-moz-selection,
+.cm-s-inner .CodeMirror-line>span>span::-moz-selection {
     background-color: rgba(167, 178, 189, 0.2);
 }
 
 .cm-s-inner .CodeMirror-line::selection,
-.cm-s-inner .CodeMirror-line > span::selection,
-.cm-s-inner .CodeMirror-line > span > span::selection {
+.cm-s-inner .CodeMirror-line>span::selection,
+.cm-s-inner .CodeMirror-line>span>span::selection {
     background-color: rgba(167, 178, 189, 0.2);
 }
 
@@ -980,7 +975,7 @@ header,
 p {
     backdrop-filter: blur(16px) saturate(180%);
     -webkit-backdrop-filter: blur(16px) saturate(180%);
-    background-color: rgba(0, 0, 0, 0.75);
+    background-color: rgba(255, 219, 172, 0.75);
     border-radius: 12px;
     border: 2px solid rgba(0, 255, 255, 0.5);
     padding: 15px;
@@ -989,8 +984,8 @@ p {
 p:hover {
     backdrop-filter: blur(16px) saturate(180%);
     -webkit-backdrop-filter: blur(16px) saturate(180%);
-    background-color: rgba(93, 112, 0, 0.75);
-    color: #ffff00;
+    background-color: rgba(43, 52, 0, 0.75);
+    color: yellow;
     border-radius: 12px;
     border: 4px solid rgba(0, 255, 255, 0.5);
     padding: 13px;
@@ -1024,7 +1019,7 @@ i,
 em {
     font-family: "VeronaElongated";
     letter-spacing: 2px;
-    color: Fuchsia;
+    color: #009900;
     margin-right: 2px;
 }
 
@@ -1037,7 +1032,6 @@ h6,
 b,
 strong {
     font-family: "VeronaBold";
-    color: #00d500;
 }
 
 ::selection {
@@ -1058,7 +1052,6 @@ video {
 }
 
 
-
 </style><title>index</title>
 </head>
 <body class='typora-export os-windows'><div class='typora-export-content'>
@@ -1068,6 +1061,7 @@ video {
 <a href='https://the-lord-jesus-will.github.io/mark-murchison/'><span>Mark Murchison</span></a><span>.</span>
 <a href='https://the-lord-jesus-will.github.io/dp/'><span>𝕯𝙚𝙧𝙚𝙠 𝓟𝓻𝓲𝓷𝓬𝓮 𝑷𝑹𝑨𝒀𝑬𝑹 𝐚𝐧𝐝 𝑷𝑹𝑶𝑪𝑳𝑨𝑴𝑨𝑻𝑰𝑶𝑵𝑺</span></a><span>.</span>
 <a href='https://the-lord-jesus-will.github.io/psalm/'><span>𝒫𝓈𝒶𝓁𝓂</span></a><span>.</span>
-<a href='https://the-lord-jesus-will.github.io/grace-alone/'><span>Grace Alone</span></a><span>.</span></p></div></div>
+<a href='https://the-lord-jesus-will.github.io/grace-alone/'><span>Grace Alone</span></a><span>.</span>
+<a href='https://the-lord-jesus-will.github.io/rapture-alerts/index.html'><span>Rapture Alerts</span></a><span>.</span></p></div></div>
 </body>
 </html>
