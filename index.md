@@ -1,9 +1,11 @@
-![s1](./assets/s1.webp)
+<p><video src="./assets/list-of-web-sites.webm"autoplay loop muted></video></p>
 
 On this page you can find additions to our Web-Sites, because the other sites that link to this page are complete, and will not be changed any further. In other words, we will not add more material to them.
 
 So any future Web-Sites, will be listed here on this page.
 It's a good idea to bookmark this page.
+
+Below the list is a video, that show you how to clear your cache of your browser. This can be needed if you don't see new content on the list for days or weeks.
 
 ---
 
