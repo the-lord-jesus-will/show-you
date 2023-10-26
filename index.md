@@ -15,3 +15,4 @@ It's a good idea to bookmark this page.
 [Grace Alone](https://the-lord-jesus-will.github.io/grace-alone/).
 [Rapture Alerts](https://the-lord-jesus-will.github.io/rapture-alerts/index.html).
 [Our awesome Jesus is mighty to save](https://the-lord-jesus-will.github.io/our-awesome-jesus-is-mighty-to-save/).
+[Finding God in the wilderness](https://the-lord-jesus-will.github.io/finding-god-in-the-wilderness/).
