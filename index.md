@@ -18,3 +18,10 @@ Below the list is a video, that show you how to clear your cache of your browser
 [Rapture Alerts](https://the-lord-jesus-will.github.io/rapture-alerts/index.html).
 [Our awesome Jesus is mighty to save](https://the-lord-jesus-will.github.io/our-awesome-jesus-is-mighty-to-save/).
 [Finding God in the wilderness](https://the-lord-jesus-will.github.io/finding-god-in-the-wilderness/).
+[Loving God and justice](https://the-lord-jesus-will.github.io/loving-god-and-justice/).
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SS8-jAETszI?si=IDZZt1XuFq6uYsyC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
