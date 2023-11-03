@@ -19,6 +19,7 @@ Below the list is a video, that show you how to clear your cache of your browser
 [Our awesome Jesus is mighty to save](https://the-lord-jesus-will.github.io/our-awesome-jesus-is-mighty-to-save/).
 [Finding God in the wilderness](https://the-lord-jesus-will.github.io/finding-god-in-the-wilderness/).
 [Loving God and justice](https://the-lord-jesus-will.github.io/loving-god-and-justice/).
+[Faith in the Fire 777](https://the-lord-jesus-will.github.io/faithinthefire777/).
 
 ---
 
