@@ -26,9 +26,11 @@ Below the list is a video, that show you how to clear your cache of your browser
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SS8-jAETszI?si=IDZZt1XuFq6uYsyC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
----
+## 
 
-## Tools
+<p><video src="C:\Users\danny\Dropbox\KJV BIBLE - VERSES\caught-up.net\_New_HTML_Pages\show-you\assets\tools.webm" autoplay loop muted></video></p>
 
 [Guitar Chords](https://the-lord-jesus-will.github.io/guitar-chords/).
 [Basic Guitar Chords](https://the-lord-jesus-will.github.io/basic-guitar-chords/).
+[Ascii Caracters](https://the-lord-jesus-will.github.io/Ascii-Caracters/).
+[Colors](https://the-lord-jesus-will.github.io/colors/).
