@@ -34,3 +34,4 @@ Below the list is a video, that show you how to clear your cache of your browser
 [Colors](https://the-lord-jesus-will.github.io/colors/).
 [Unicode Characters](https://the-lord-jesus-will.github.io/Unicode-Characters/).
 [Numbers](https://the-lord-jesus-will.github.io/numbers/).
+[Guitar in the key of C E G](https://caught-up.net/guitar-in-the-key-of-C-E-G/).
