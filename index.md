@@ -21,6 +21,7 @@ Below the list is a video, that show you how to clear your cache of your browser
 [Loving God and justice](https://the-lord-jesus-will.github.io/loving-god-and-justice/).
 [Faith in the Fire 777](https://the-lord-jesus-will.github.io/faithinthefire777/).
 [John MacArthur 1](https://the-lord-jesus-will.github.io/john-macarthur-1/).
+[Watchman Nee a living sacrifice](https://the-lord-jesus-will.github.io/watchman-nee-a-living-sacrifice/).
 
 ---
 
