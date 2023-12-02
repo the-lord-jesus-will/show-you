@@ -24,6 +24,7 @@ Below the list is a video, that show you how to clear your cache of your browser
 [Watchman Nee a living sacrifice](https://the-lord-jesus-will.github.io/watchman-nee-a-living-sacrifice/). This page regularly gets updated.
 [Atheist](https://the-lord-jesus-will.github.io/atheist/).
 [Catherine's Testimony](https://the-lord-jesus-will.github.io/catherines-testimony/).
+[Johnny Mathis - It Came Upon The Midnight Clear](https://www.youtube.com/watch?v=pv5NMG1KYEA).
 
 ---
 
