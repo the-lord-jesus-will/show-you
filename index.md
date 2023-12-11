@@ -26,7 +26,11 @@ Below the list is a video, that show you how to clear your cache of your browser
 [Catherine's Testimony](https://the-lord-jesus-will.github.io/catherines-testimony/).
 [Johnny Mathis - It Came Upon The Midnight Clear](https://www.youtube.com/watch?v=pv5NMG1KYEA).
 [Mark](https://www.youtube.com/watch?v=IukBVuuhAPc).
-[Wayne Fowler Dies Talks With Jesus And...](https://www.youtube.com/watch?v=G5ZMJ8_C3io).
+[Wayne Fowler Dies Talks With Jesus And...](https://www.youtube.com/watch?v=G5ZMJ8_C3io)
+[People Get Ready There's A Train Comin'!](https://www.youtube.com/watch?v=tOTXxAzu1z4).
+[The Impressions Cover](https://www.youtube.com/watch?v=1VYCyZ0Qgjo).
+[A STARK WARNING TO THE CHURCH!](https://www.youtube.com/watch?v=vX5KIM18ohY&t=1s).
+[Mark Murchison](https://www.youtube.com/watch?v=9dZTQIDENM0&t=921s).
 
 ---
 
