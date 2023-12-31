@@ -33,6 +33,7 @@ Below the list is a video, that show you how to clear your cache of your browser
 [Mark Murchison](https://www.youtube.com/watch?v=9dZTQIDENM0&t=921s).
 [J.D. Farag](https://www.jdfarag.org/recent-services?sapurl=LytkNmtjL2xiL21pLytxa3J2aHluP2VtYmVkPXRydWUmcmVjZW50Um91dGU9YXBwLndlYi1hcHAubGlicmFyeS5saXN0JnJlY2VudFJvdXRlU2x1Zz0lMkI5OWJjeWp6).
 [PLEASE DON’T IGNORE THIS URGENT MESSAGE!](https://www.youtube.com/watch?v=XI87WWjlFho).
+[WHEN DID SATAN FALL TO EARTH? / Hugo Talks](https://youtu.be/yKIPtSJLnRU?si=A34Om7rSVpkPBY15).
 
 ---
 
